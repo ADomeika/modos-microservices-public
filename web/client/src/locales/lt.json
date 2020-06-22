@@ -1,0 +1,190 @@
+{
+  "main": {
+    "cartHasBeenRemoved": "Jūsų krepšelis buvo panaikintas",
+    "clothesForAllFamilyMembers": "Drabužiai visai šeimai"
+  },
+  "components": {
+    "about": {
+      "aboutUs": "Apie Mus",
+      "descriptionHeading": "Išskirtiniai drabužiai visai šeimai.",
+      "descriptionSubheading": "Piešti - Unikalūs - Kokybiški",
+      "descriptionBody": "Mes kuriame Jums - vertinantiems kokybę ir patogumą, originalumą ir išskirtinumą. Kiekvienas rankomis pieštas drabužėlis yra unikalus, būsite vienintėliai ir nepakartojami, bei neliksite nepastebėti. Kūrybos procesą lydi daug meilės, šilumos ir lūkesčių patikti. Beveik visus drabužius siuvame patys, pritaikome pagal dyžius, išskirtinai Jums. Orentuojamės į kiekvieną klientą asmeniškai – Jūs galite rinktis drabužio spalvą, piešinuką patys, ši galimybė leidžia susikonstruoti savo vienintelę suknelę, marškinėlius ar džinsinį švarkelį. Turite pabodusį džinsinį švarkelį ar odinę/dermantino odos striukę ir norite juos pagyvinti, suteikti spalvų? Kreipkitės ir mes Jums padėsime 😊"
+    },
+    "admin": {
+      "newPicture": {
+        "dictDefaultMessage": "Paspauskite, kad ieškotumėte arba pasirinkite kompiuteryje ir tempkite",
+        "dictCancelUpload": "Nespausk",
+        "dictRemoveFile": "Ištrinti"
+      },
+      "newProduct": {
+        "success": "Sėkmingai įdėta"
+      },
+      "form": {
+        "productTitle": "Produkto pavadinimas",
+        "productOnSale": "Produktas išpardavime",
+        "yes": "Taip",
+        "no": "Ne",
+        "originalPrice": "Originali produkto kaina",
+        "productPrice": "Produkto kaina",
+        "productCategory": "Produkto kategorija",
+        "productSubcategory": "Produkto subkategorija",
+        "availableSizes": "Galimi dydžiai",
+        "productDescription": "Produkto aprašymas",
+        "productAdditionalInfo": "Produkto papildoma informacija",
+        "pictures": "Nuotraukos",
+        "chooseOne": "Pasirinkite vieną",
+        "required": "Privaloma įvesti",
+        "requiredToChoose": "Privaloma pasirinkti",
+        "requiredEnterAtLeastOne": "Privaloma įvesti bent vieną",
+        "numeric": "Gali būti tik skaičiai",
+        "notFullyCompleted": "Forma neužpildyta pilnai",
+        "addNewProduct": "Įkelti Naują Produktą"
+      }
+    },
+    "basket": {
+      "totalPriceForProducts": "Suma už prekes",
+      "delivery": "Pristatymas",
+      "post": "Lietuvos paštu",
+      "locker": "Pasirinktu paštomatu",
+      "euCountries": "Europos Sąjungos Valstybėse",
+      "otherCountries": "Kitose Valstybėse",
+      "total": "Galutinė suma"
+    },
+    "footer": {
+      "telephone": "Telefonas",
+      "email": "El. paštas",
+      "copyright": "Visos teisės saugomos"
+    },
+    "product": {
+      "sectionOne": {
+        "description": "Aprašymas",
+        "additionalInfo": "Papildoma Info"
+      },
+      "sectionTwo": {
+        "size": "Dydis",
+        "remaining": "Liko",
+        "toCart": "į krepšelį",
+        "addedToCart": "Įdėta į krepšelį"
+      }
+    },
+    "shop": {
+      "sortation": {
+        "allProducts": "Visos Prekės",
+        "allSizes": "Visi Dydžiai"
+      }
+    },
+    "nothingYet": "Kol kas dar nieko neturime",
+    "sale": "Išpardavimas",
+    "order": "Užsakymas"
+  },
+  "views": {
+    "home": {
+      "shop": "parduotuve"
+    },
+    "contact": {
+      "contactUs": "Susisiekite su mumis",
+      "yourName": "Jūsų Vardas",
+      "yourEmail": "Jūsų El. Paštas",
+      "yourMessage": "Jūsų žinutė",
+      "required": "Privaloma įvesti",
+      "lettersOnly": "Privalo būti tik raidės",
+      "realEmal": "Privalo būti tikras el. paštas",
+      "sendMessage": "Siųsti Žinutę",
+      "messageSent": "Jūsų žinutė buvo išsiųsta"
+    },
+    "cart": {
+      "cart": "Krepšelis",
+      "cartEmpty": "Krepšelis tuščias",
+      "removeFromCart": "Išimti iš krepšelio",
+      "renewingQuantity": "Atnaujinamas kiekis",
+      "remaining": "Liko",
+      "total": "Viso",
+      "order": "Užsakyti"
+    },
+    "conditions": {
+      "buyingConditions": {
+        "buyingConditions": "Pirkimo sąlygos",
+        "first": "Šios prekių pirkimo – pardavimo taisyklės (toliau „Taisyklės“) yra šalims privalomas teisinis dokumentas, kuriame nustatomos Pirkėjo ir Pardavėjo teisės bei pareigos, prekių įsigijimo bei apmokėjimo už jas sąlygos, prekių pristatymo ir grąžinimo tvarka, šalių atsakomybė bei kitos su prekių pirkimu – pardavimu modosdesign.lt internetinėje parduotuvėje susijusios nuostatos.",
+        "second": "Pirkti modosdesign.lt internetinėje parduotuvėje turi teisę visi juridiniai ir fiziniai asmenys. Sutartis tarp Pirkėjo ir Pardavėjo laikoma sudaryta nuo to momento, kai Pirkėjas el. parduotuvėje suformavęs prekių krepšelį, nurodęs pristatymo adresą, pasirinkęs atsiskaitymo būdą ir susipažinęs su Pardavėjo taisyklėmis, paspaudžia mygtuką „Patvirtinti užsakymą“.",
+        "third": "Kiekviena sutartis, sudaryta tarp Pirkėjo ir Pardavėjo, yra saugoma modosdesign.lt internetinėje parduotuvėje.",
+        "fourth": "Asmens duomenų apsauga. Užsisakyti prekes modosdesign.lt internetinėje parduotuvėje Pirkėjas gali be priverstinės registracijos. Registruojantis modosdesign.lt internetinėje parduotuvėje Pirkėjas privalo pateikti teisingą asmeninę informaciją. Pirkėjas atsakingas už teisingų duomenų pateikimą. Patvirtindamas šias taisykles Pirkėjas sutinka, jog Pirkėjo pateikti asmens duomenys būtų tvarkomi prekių ir paslaugų pardavimo modosdesign.lt internetinėje parduotuvėje, Pardavėjo veiklos analizės ir tiesioginės rinkodaros tikslais. Pirkėjas taip pat sutinka, kad Pirkėjo nurodytu el. pašto adresu ir telefono numeriu būtų siunčiami informaciniai pranešimai, būtini prekių užsakymui įvykdyti.",
+        "fifth": "Pirkėjo teisės ir įsipareigojimai. Pirkėjas turi teisę pirkti prekes modosdesign.lt internetinėje parduotuvėje šių Taisyklių ir kitose šios el. parduotuvės informacijos skiltyse nustatyta tvarka. Pirkėjas įsipareigoja priimti užsakytas prekes ir už jas sumokėti sutartą kainą. Jeigu pasikeičia Pirkėjo duomenys, pateikti pirkimo formoje, Pirkėjas privalo juos atnaujinti nedelsdamas. Pirkėjas, naudodamasis modosdesign.lt internetine parduotuve, sutinka su šiomis pirkimo - pardavimo Taisyklėmis ir įsipareigoja jų laikytis bei nepažeisti LR teisės aktų.",
+        "sixth": "Pardavėjo teisės ir įsipareigojimai. Pardavėjas įsipareigoja gerbti Pirkėjo privatumo teisę į Pirkėjo priklausančią asmeninę informaciją, nurodytą modosdesign.lt internetinėje parduotuvės registracijos formoje ir neperleisi jos tretiesiems asmenims. Pardavėjas įsipareigoja pristatyti Pirkėjo užsakytas prekes Pirkėjo nurodytu adresu.",
+        "seventh": "Prekių užsakymas, kainos, atsiskaitymo tvarka, terminai. www.modosdesign.lt internetinėje parduotuvėje Pirkėjas internetu gali pirkti 7 dienas per savaitę, 24 val. per parą. Sutartis įsigalioja nuo to momento, kai Pirkėjas, pirkdamas internetu, paspaudžia mygtuką „Patvirtinti užsakymą“, o gavęs užsakymą Pardavėjas jį patvirtina atsiųsdamas patvirtinimo laišką Pirkėjo nurodytu el. paštu. Prekių kainos modosdesign.lt internetinėje parduotuvėje nurodomos eurais. Pirkėjas atsiskaitydamas naudojasi el. bankininkystės sistema, suvedant nurodytą informaciją. Pinigus Pirkėjas perveda į modosdesign.lt internetinės parduotuvės atsiskaitomąją sąskaitą. Pirkėjas įsipareigoja už prekes sumokėti nedelsiant. Tik gavus apmokėjimą už prekes pradedamas formuoti prekių siuntinys ir pradedamas skaičiuoti prekių pristatymo terminas. Pirkėjui neįvykdžius mokėjimo per 48 valandas, užsakymas atšaukiamas.",
+        "eighth": "Prekių pristatymas. Pirkėjas, užsakymo metu pasirinkęs prekių pristatymo paslaugą, įsipareigoja nurodyti tikslią prekių pristatymo vietą. Pirkėjas įsipareigoja prekes priimti pats. Tuo atveju, jei Pirkėjas prekių pats priimti negali, o prekės pristatytos nurodytu adresu, Pirkėjas neturi teisės reikšti Pardavėjui pretenzijų dėl prekių pristatymo netinkamam subjektui. Prekės siunčiamos Lietuvos paštu arba Lietuvoje esančiais paštomatais, priklausomai nuo to, kokį pristatymo būdą pasirinko Pirkėjas. Pardavėjas pristato Pirkėjui prekes vadovaudamasis prekių aprašymuose nurodytais terminais. Išimtiniais atvejais prekių pateikimas gali vėluoti dėl nenumatytų, nuo Pardavėjo nepriklausančių aplinkybių. Tokiu atveju Pardavėjas įsipareigoja nedelsiant susisiekti su Pirkėju ir suderinti prekių pateikimo sąlygas."
+      },
+      "returnConditions": {
+        "returnConditions": "Grąžinimo sąlygos",
+        "prelog": "Netinkamos kokybės prekės į tinkamos kokybės prekes keičiamos ir prekės grąžinamos Civilinio kodekso 6.363 ir 6.364 straipsniuose nustatytais atvejais ir sąlygomis.",
+        "prelogTwo": "Norėdami grąžinti prekę(es), Pirkėjas privalo laikytis šių sąlygų:",
+        "first": "Prekės grąžinimo terminas – 14 d. Dėl grąžinimo kreiptis el.p. modos.design.info@gmail.com.",
+        "second": "Grąžinama prekė turi būti originalioje ir nepažeistoje pakuotėje su etikete.",
+        "third": "Prekė turi būti Pirkėjo nesugadinta, grąžinama pilnos komplektacijos.",
+        "fourth": "Vartotojas pardavėjui pateikia prekę ir rašytinį prašymą, kuriame nurodo priežastį (prekės trūkumą ar kitą priežastį), dėl kurios įsigyta prekė netenkina vartotojo",
+        "fifth": "Jeigu Pardavėjas įrodo, kad prekės trūkumų atsirado dėl to, kad Pirkėjas pažeidė prekės naudojimo ar saugojimo taisykles, tokia prekė nekeičiama, neatlygintinai trūkumai nešalinami ir pinigai negrąžinami. ",
+        "sixth": "Kilus ginčui dėl prekės išvaizdos pakeitimų ar prekės sugadinimo, pardavėjas privalo raštu kreiptis į Valstybinę ne maisto produktų inspekciją, o gavęs iš jos raštu pateiktas išvadas nedelsdamas apie tai pranešti Pirkėjui."
+      }
+    },
+    "admin": {
+      "dashboard": {
+        "username": "Prisijungimo vardas",
+        "password": "Slaptažodis",
+        "submit": "Pateikti",
+        "addNewProduct": "Įdėti naują produktą",
+        "editProduct": "Keisti Produktą",
+        "orders": "Užsakymai",
+        "uploadPictures": "Įdėti paveiksliukų"
+      },
+      "addedSuccessfully": "Sėkmingai įdėta",
+      "order": {
+        "orderNumber": "Užsakymo nr",
+        "firstName": "Vardas",
+        "lastName": "Pavardė",
+        "email": "El. Paštas",
+        "telephone": "Telefonas",
+        "chosenDeliveryType": "Pasirinktas pristatymo tipas",
+        "totalPrice": "Suma",
+        "address": "Adresas arba paštomatas",
+        "orderedItems": "Užsakytos prekės",
+        "title": "Pavadinimas",
+        "size": "Dydis",
+        "quantity": "Kiekis",
+        "sentPaid": "Išsiųsta/Apmokėta"
+      },
+      "noOrdersYet": "Kol kas užsakymų nėra"
+    },
+    "order": {
+      "order": "Užsakymas",
+      "firstName": "Vardas",
+      "lastName": "Pavardė",
+      "email": "El. Pašto Adresas",
+      "telephone": "Telefono Numeris",
+      "city": "Miestas",
+      "postcode": "Pašto Kodas",
+      "locker": "Paštomatas",
+      "country": "Šalis",
+      "address": "Adresas",
+      "addressLine2": "Antra Adreso Eilutė",
+      "billTotal": "Sąskaitos Suma",
+      "pay": "Apmokėti"
+    },
+    "success": "Ačiū! Jūs sėkmingai apmokėjote už užsakymą."
+  },
+  "other": {
+    "categories": {
+      "men": "Vyrams",
+      "women": "Moterims",
+      "boys": "Berniukams",
+      "girls": "Mergaitėms",
+      "accessories": "Aksesuarai"
+    },
+    "subCategories": {
+      "women": [ "Suknelės", "Džinsiniai Švarkai", "Marškinėliai", "Kelnės", "Sijonai", "Marškiniai", "Džemperiai" ],
+      "men": [ "Džemperiai", "Kelnės", "Džinsiniai Švarkai", "Marškinėliai" ],
+      "girls": [ "Suknelės", "Marškinėliai", "Sijonai", "Kelnytes", "Džemperiai", "Džinsiniai Švarkeliai" ],
+      "boys": [ "Džemperiai", "Kelnės", "Džinsiniai Švarkeliai" ],
+      "accessories": [ "Kepurės", "Rankinės" ]
+    },
+    "oneSize": "Vienas Dydis"
+  }
+}

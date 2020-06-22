@@ -1,0 +1,190 @@
+{
+  "main": {
+    "cartHasBeenRemoved": "Your cart has been removed",
+    "clothesForAllFamilyMembers": "Clothes for all family members"
+  },
+  "components": {
+    "about": {
+      "aboutUs": "About Us",
+      "descriptionHeading": "Unique clothes for all family members.",
+      "descriptionSubheading": "Hand-drawn - Unique - Qualitative",
+      "descriptionBody": "We create for You - those who value quality and comfort, originality and exclusivity. Each hand-drawn garment is unique, you will be one of a kind and uncommon as well as won't be overlooked. The creative process is accompanied by a lot of love, warmth and expectation of liking. We make almost all clothes ourselves, tailor-made, exclusively for You. We focus on each customer personally - You can choose the colour of the garment, the pattern, this option allows You to design Your only dress, t-shirt or denim jacket. Got a tired denim jacket or leather/dermantine leather jacket and want to brighten them up, give them colour? Contact us and we will help You 😊"
+    },
+    "admin": {
+      "newPicture": {
+        "dictDefaultMessage": "Click to search or drag from computer",
+        "dictCancelUpload": "Don't Click!",
+        "dictRemoveFile": "Remove"
+      },
+      "newProduct": {
+        "success": "Added successfully!"
+      },
+      "form": {
+        "productTitle": "Product title",
+        "productOnSale": "Is product on sale",
+        "yes": "Yes",
+        "no": "No",
+        "originalPrice": "Original product price",
+        "productPrice": "Product price",
+        "productCategory": "Product category",
+        "productSubcategory": "Product subcategory",
+        "availableSizes": "Available sizes",
+        "productDescription": "Product description",
+        "productAdditionalInfo": "Product additional information",
+        "pictures": "Pictures",
+        "chooseOne": "Choose one",
+        "required": "Required",
+        "requiredToChoose": "Required to choose",
+        "requiredEnterAtLeastOne": "Required to enter at least one",
+        "numeric": "Can only be numeric",
+        "notFullyCompleted": "Form is not fully completed",
+        "addNewProduct": "Add New Product"
+      }
+    },
+    "basket": {
+      "totalPriceForProducts": "Total price for products",
+      "delivery": "Delivery",
+      "post": "Lithuanian Post",
+      "locker": "Chosen Lithuanian Locker",
+      "euCountries": "European Union Countries",
+      "otherCountries": "Other Countries",
+      "total": "Total Price"
+    },
+    "footer": {
+      "telephone": "Telephone",
+      "email": "Email",
+      "copyright": "All rights reserved"
+    },
+    "product": {
+      "sectionOne": {
+        "description": "Description",
+        "additionalInfo": "Additional Info"
+      },
+      "sectionTwo": {
+        "size": "Size",
+        "remaining": "Remaining",
+        "toCart": "to cart",
+        "addedToCart": "Added to cart"
+      }
+    },
+    "shop": {
+      "sortation": {
+        "allProducts": "All Products",
+        "allSizes": "All Sizes"
+      }
+    },
+    "nothingYet": "Nothing here yet",
+    "sale": "Sale",
+    "order": "Order"
+  },
+  "views": {
+    "home": {
+      "shop": "shop"
+    },
+    "contact": {
+      "contactUs": "Contact us",
+      "yourName": "Your name",
+      "yourEmail": "Your email",
+      "yourMessage": "Your message",
+      "required": "Required",
+      "lettersOnly": "Can only be letters",
+      "realEmal": "Should be existing email",
+      "sendMessage": "Send Message",
+      "messageSent": "Your message was sent"
+    },
+    "cart": {
+      "cart": "Cart",
+      "cartEmpty": "Cart is empty",
+      "removeFromCart": "Remove from cart",
+      "renewingQuantity": "Renewing quantity",
+      "remaining": "Remaining",
+      "total": "Total",
+      "order": "Order"
+    },
+    "conditions": {
+      "buyingConditions": {
+        "buyingConditions": "Buying conditions",
+        "first": "These Terms of Sale (the \"Rules\") are a binding legal document that sets out the rights and obligations of the Buyer and Seller, the terms and conditions for purchasing and paying for the goods, the delivery and return procedures, the parties' liability and other modosdesign.lt online store related provisions.",
+        "second": "All legal and natural persons have the right to buy at modosdesign.lt online store. The agreement between the Buyer and the Seller shall be deemed concluded from the moment when the Buyer e-mails. Once you have set up a shopping cart in your store, provided a shipping address, selected a payment method, and click \"Confirm Order\" after reviewing the Seller Policy.",
+        "third": "Each contract between Buyer and Seller is stored on modosdesign.lt online store.",
+        "fourth": "Protection of personal data. You can order goods at modosdesign.lt online shop without any forced registration. When registering at modosdesign.lt online shop the Buyer must provide correct personal information. The Buyer is responsible for providing correct information. By accepting these rules, the Buyer agrees that the personal data provided by the Buyer will be processed in the modosdesign.lt online shop for sales and service analysis and direct marketing purposes. The Buyer also agrees that the e-mail address specified by the Buyer The e-mail address and telephone number will contain the information messages necessary to complete the order.",
+        "fifth": "Buyer Rights and Obligations. Buyer has the right to buy goods in modosdesign.lt online shop in these Rules and in other e-mails. in the order set out in the store information sections. The Buyer undertakes to accept the ordered goods and pay the agreed price for them. In the event of a change in the Buyer's details provided in the purchase form, the Buyer must update them immediately. By using modosdesign.lt online shop, the Buyer agrees to these Terms and Conditions of Sale and undertakes to comply with them and not to violate the legal acts of the Republic of Lithuania.",
+        "sixth": "Seller Rights and Obligations. Seller undertakes to respect Buyer's privacy right to Buyer's proprietary information specified in modosdesign.lt online store registration form and will not transfer it to third parties. The Seller undertakes to deliver the goods ordered by the Buyer to the address specified by the Buyer.",
+        "seventh": "Ordering of goods, prices, payment order, terms. modosdesign.lt online shop Buyer can shop online 7 days a week, 24 hours. per day. The Contract shall take effect from the moment the Buyer, when making an online purchase, clicks the \"Confirm Order\" button and upon receipt of the order, the Seller confirms it by sending a confirmation letter to the Buyer by e-mail. by email. Product prices in modosdesign.lt online shop are quoted in euros. The buyer uses e-mail for payment. banking system by entering the specified information. The Buyer shall transfer the money to the settlement account of modosdesign.lt online store. The buyer undertakes to pay for the goods immediately. Only after the payment for the goods is received, the shipment of goods begins to form and the delivery term begins. If the buyer fails to make payment within 48 hours, the order is canceled.",
+        "eighth": "Delivery of goods. The Buyer, who chooses the delivery service at the time of ordering, undertakes to indicate the exact place of delivery of the goods. The buyer undertakes to accept the goods himself. In the event that the Buyer cannot accept the goods himself and the goods have been delivered to the specified address, the Buyer shall not be entitled to claim against the Seller the delivery of the goods to an unsuitable entity. The goods are shipped by post or by post in Lithuania, depending on the method of delivery chosen by the Buyer. The Seller shall deliver the goods to the Buyer in accordance with the terms specified in the product descriptions. In exceptional cases, delivery may be delayed due to unforeseen circumstances beyond the Seller's control. In this case the Seller undertakes to immediately contact the Buyer and agree on the terms of delivery."
+      },
+      "returnConditions": {
+        "returnConditions": "Return conditions",
+        "prelog": "Poor quality goods shall be replaced and returned in the cases and under the conditions laid down in Articles 6.363 and 6.364 of the Civil Code.",
+        "prelogTwo": "To return the item (s), the Buyer must abide by these terms:",
+        "first": "Product returns period - 14 days. Apply for refund by email - modos.design.info@gmail.com.",
+        "second": "Returned item must be in original and undamaged packaging with label.",
+        "third": "The item shall be undamaged by the Buyer and shall be returned in full set.",
+        "fourth": "The consumer submits to the seller an item and a written request stating the reason (lack of the item or other reason) why the purchased item does not satisfy the consumer.",
+        "fifth": "If the Seller proves that the defect was caused by the Buyer's violation of the rules governing the use or storage of the Product, the Product shall not be replaced, the defective shall not be removed and the money shall not be refunded.",
+        "sixth": "In the event of a dispute regarding changes in the appearance of the product or damage to the product, the seller must contact the State Non-Food Inspectorate in writing and, upon receipt of the written conclusions thereof, notify the Buyer without delay."
+      }
+    },
+    "admin": {
+      "dashboard": {
+        "username": "Username",
+        "password": "Password",
+        "submit": "Submit",
+        "addNewProduct": "Add New Product",
+        "editProduct": "Edit Product",
+        "orders": "Orders",
+        "uploadPictures": "Upload Pictures"
+      },
+      "addedSuccessfully": "Added Successfully",
+      "order": {
+        "orderNumber": "Order number",
+        "firstName": "First name",
+        "lastName": "Last name",
+        "email": "Email",
+        "telephone": "Telephone",
+        "chosenDeliveryType": "Chosen delivery type",
+        "totalPrice": "Total price",
+        "address": "Address or Lithuanian locker",
+        "orderedItems": "Ordered items",
+        "title": "Title",
+        "size": "Size",
+        "quantity": "Quantity",
+        "sentPaid": "Sent/Paid"
+      },
+      "noOrdersYet": "There are no orders yet"
+    },
+    "order": {
+      "order": "Order",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "telephone": "Telephone",
+      "city": "City",
+      "postcode": "Postcode",
+      "locker": "Locker",
+      "country": "Country",
+      "address": "Address",
+      "addressLine2": "Address Line 2",
+      "billTotal": "Bill Total",
+      "pay": "Pay"
+    },
+    "success": "Thank you! You have successfully paid for your order."
+  },
+  "other": {
+    "categories": {
+      "men": "Men",
+      "women": "Women",
+      "boys": "Boys",
+      "girls": "Girls",
+      "accessories": "Accessories"
+    },
+    "subCategories": {
+      "women": [ "Dresses", "Denim Jackets", "Shirts", "Pants", "Skirts", "T-Shirts", "Jumpers" ],
+      "men": [ "Jumpers", "Pants", "Denim Jackets" , "Shirts"],
+      "girls": [ "Dresses", "Shirts", "Skirts", "Pants", "Jumpers", "Denim Jackets" ],
+      "boys": [ "Jumpers", "Pants", "Denim Jackets" ],
+      "accessories": [ "Hats", "Handbags" ]
+    },
+    "oneSize": "One Size"
+  }
+}

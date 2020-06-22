@@ -1,0 +1,11 @@
+export const women = [ 'Suknelės', 'Džinsiniai Švarkai', 'Marškinėliai', 'Kelnės', 'Sijonai', 'Marškiniai', 'Džemperiai' ]
+export const men = [ 'Džemperiai', 'Kelnės', 'Džinsiniai Švarkai', 'Marškinėliai' ]
+export const girls = [ 'Suknelės', 'Marškinėliai', 'Sijonai', 'Kelnytes', 'Džemperiai', 'Džinsiniai Švarkeliai' ]
+export const boys = [ 'Džemperiai', 'Kelnės', 'Džinsiniai Švarkeliai' ]
+export const accessories = [ 'Kepurės', 'Rankinės' ]
+
+export const womenEN = [ 'Dresses', 'Denim Jackets', 'Shirts', 'Pants', 'Skirts', 'T-Shirts', 'Jumpers' ]
+export const menEN = [ 'Jumpers', 'Pants', 'Denim Jackets' ]
+export const girlsEN = [ 'Dresses', 'Shirts', 'Skirts', 'Kelnytes', 'Jumpers', 'Denim Jackets' ]
+export const boysEN = [ 'Jumpers', 'Pants', 'Denim Jackets' ]
+export const accessoriesEN = [ 'Hats', 'Handbags' ]
